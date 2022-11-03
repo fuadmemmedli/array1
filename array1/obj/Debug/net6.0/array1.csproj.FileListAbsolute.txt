@@ -1,0 +1,15 @@
+/Users/fuadmemedli/Projects/array1/array1/bin/Debug/net6.0/array1
+/Users/fuadmemedli/Projects/array1/array1/bin/Debug/net6.0/array1.deps.json
+/Users/fuadmemedli/Projects/array1/array1/bin/Debug/net6.0/array1.runtimeconfig.json
+/Users/fuadmemedli/Projects/array1/array1/bin/Debug/net6.0/array1.dll
+/Users/fuadmemedli/Projects/array1/array1/bin/Debug/net6.0/array1.pdb
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.csproj.AssemblyReference.cache
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.AssemblyInfoInputs.cache
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.AssemblyInfo.cs
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.csproj.CoreCompileInputs.cache
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.dll
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/refint/array1.dll
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.pdb
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/array1.genruntimeconfig.cache
+/Users/fuadmemedli/Projects/array1/array1/obj/Debug/net6.0/ref/array1.dll
